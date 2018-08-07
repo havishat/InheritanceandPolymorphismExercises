@@ -1,0 +1,7 @@
+C:\Users\v-latiru\source\repos\inheritanceandpoly\inheritanceandpoly\bin\Debug\inheritanceandpoly.exe.config
+C:\Users\v-latiru\source\repos\inheritanceandpoly\inheritanceandpoly\bin\Debug\inheritanceandpoly.exe
+C:\Users\v-latiru\source\repos\inheritanceandpoly\inheritanceandpoly\bin\Debug\inheritanceandpoly.pdb
+C:\Users\v-latiru\source\repos\inheritanceandpoly\inheritanceandpoly\obj\Debug\inheritanceandpoly.csprojAssemblyReference.cache
+C:\Users\v-latiru\source\repos\inheritanceandpoly\inheritanceandpoly\obj\Debug\inheritanceandpoly.csproj.CoreCompileInputs.cache
+C:\Users\v-latiru\source\repos\inheritanceandpoly\inheritanceandpoly\obj\Debug\inheritanceandpoly.exe
+C:\Users\v-latiru\source\repos\inheritanceandpoly\inheritanceandpoly\obj\Debug\inheritanceandpoly.pdb
